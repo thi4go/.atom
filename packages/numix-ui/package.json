@@ -1,0 +1,74 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-117430-31646-1u5mmt8.gruanhfr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-117430-31646-1u5mmt8.gruanhfr/package.tgz",
+        "spec": "/tmp/d-117430-31646-1u5mmt8.gruanhfr/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-117430-31646-rspekz.t3n2ke29"
+    ]
+  ],
+  "_from": "../d-117430-31646-1u5mmt8.gruanhfr/package.tgz",
+  "_id": "numix-ui@0.2.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/numix-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-117430-31646-1u5mmt8.gruanhfr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-117430-31646-1u5mmt8.gruanhfr/package.tgz",
+    "spec": "/tmp/d-117430-31646-1u5mmt8.gruanhfr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117430-31646-1u5mmt8.gruanhfr/package.tgz",
+  "_shasum": "4d68af88063809ab4cab67d99e7a925bf716d84e",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-117430-31646-1u5mmt8.gruanhfr/package.tgz",
+  "_where": "/tmp/apm-install-dir-117430-31646-rspekz.t3n2ke29",
+  "bugs": {
+    "url": "https://github.com/tsbarnes/numix-ui/issues"
+  },
+  "dependencies": {},
+  "description": "A Numix-inspired UI theme for Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/tsbarnes/numix-ui#readme",
+  "keywords": [
+    "ui",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "numix-ui",
+  "optionalDependencies": {},
+  "readme": "# Atom UI Theme Template\n\nThis is a __starter template__ for creating an Atom UI theme.\n\nThis template only includes the __minimum of styling__ needed and comes with a neutral look. It could already be used as a real theme, but its purpose is to serve as a basis for creating your own theme. It is documented throughout and invites you to make changes to your liking. For some inspiration take a look at other Atom themes at [atom.io/themes](https://atom.io/themes/). Or you're always free to fork a theme that already comes close to your vision.\n\nHappy theming! 🚀\n\n\n## Getting started\n\n1. Fork this repository.\n2. Continue with step 2 from [Creating an Interface Theme](https://atom.io/docs/v1.0.17/hacking-atom-creating-a-theme#creating-an-interface-theme)\n\nIf you get stuck somewhere, feel free to create an [issue](https://github.com/atom-community/ui-theme-template/issues/new).\n\nps. Don't forget to delete the above and edit the below in your own `README.md`.\n\n\n---\n\n\n# My UI theme\n\nA short description of your theme.\n\n![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsbarnes/numix-ui.git"
+  },
+  "theme": "ui",
+  "version": "0.2.2",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-11753-12613-1wd94sq.vesbawcdi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-11753-12613-1wd94sq.vesbawcdi/package.tgz",
+        "spec": "/tmp/d-11753-12613-1wd94sq.vesbawcdi/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-11753-12613-1sn360p.1ike5t57b9"
+    ]
+  ],
+  "_from": "../d-11753-12613-1wd94sq.vesbawcdi/package.tgz",
+  "_id": "autoclose@0.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/autoclose",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-11753-12613-1wd94sq.vesbawcdi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-11753-12613-1wd94sq.vesbawcdi/package.tgz",
+    "spec": "/tmp/d-11753-12613-1wd94sq.vesbawcdi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11753-12613-1wd94sq.vesbawcdi/package.tgz",
+  "_shasum": "0c6e8ef8f4f1271e2304dca439aaf5a985e24844",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-11753-12613-1wd94sq.vesbawcdi/package.tgz",
+  "_where": "/tmp/apm-install-dir-11753-12613-1sn360p.1ike5t57b9",
+  "bugs": {
+    "url": "https://github.com/awaw00/autoclose/issues"
+  },
+  "dependencies": {},
+  "description": "close html-like tag in all file.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/awaw00/autoclose#readme",
+  "keywords": [
+    "atom",
+    "autoclose"
+  ],
+  "license": "MIT",
+  "main": "./lib/autoclose",
+  "name": "autoclose",
+  "optionalDependencies": {},
+  "readme": "# autoclose\nAuto close html-like tag.\n\n## capabilities\n  * when type `<a>` will get `<a></a>`\n  * then type <kbd>Enter</kbd> will get\n  ```\n  <a>\n  ··\n  </a>\n  ```\n  * you can add disabled file extensions in setting view\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awaw00/autoclose.git"
+  },
+  "version": "0.0.2",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib/autoclose.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
